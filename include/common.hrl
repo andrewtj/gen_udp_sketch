@@ -1,0 +1,1 @@
+-record(gus_tab, {id, pid, count}).
