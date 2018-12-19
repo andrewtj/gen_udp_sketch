@@ -1,5 +1,7 @@
 # gen_udp_sketch
 
+[License: MIT](LICENSE)
+
 This is a sketch of a simple generic Erlang UDP listener. It's used as follows:
 
 ```
